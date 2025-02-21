@@ -35,9 +35,9 @@ Output ditambahkan ke file tanpa menghapus isi sebelumnya.</li>
 
 <li>Menjalankan Perintah-Perintah Berikut dan Mengamati Hasilnya:<br>
 a) Mencari tty03 di /etc/passwd. Mencari baris yang mengandung "tty03" setelah diurutkan.<br>
-b) Menampilkan 10 Baris Pertama dari /etc. Menampilkan 10 hasil pertama dari pencarian di /etc.</li>
-<img  src="8.png" alt=""  width="300px">
-c) Menampilkan Baris 6-10 dari /etc/passwd yang Sudah Diurutkan. Menampilkan baris 6-10 setelah diurutkan.
+b) Menampilkan 10 Baris Pertama dari /etc. Menampilkan 10 hasil pertama dari pencarian di /etc.
+<img  src="8.png" alt=""  width="300px"><br>
+c) Menampilkan Baris 6-10 dari /etc/passwd yang Sudah Diurutkan. Menampilkan baris 6-10 setelah diurutkan.</li>
 <img  src="9.png" alt=""  width="300px">
 
 <li>Menjalankan Perintah Kompleks dan Mengamati Hasilnya. Output dari who diurutkan, diformat, dan ditampilkan sebagian di layar.</li>
